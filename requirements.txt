@@ -1,8 +1,0 @@
-flask
-undetected-chromedriver
-fake_useragent
-cryptography
-colorama
-urllib3
-requests
-gunicorn
